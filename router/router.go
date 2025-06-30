@@ -33,3 +33,4 @@ func SetupRoutes(app *fiber.App) {
 	app.Get("/docs/*", swagger.HandlerDefault)
 
 }
+//siappp
