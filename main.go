@@ -33,7 +33,7 @@ func init() {
 
 // @contact.name API Support
 // @contact.url https://github.com/indrariksa
-// @contact.email indra@ulbi.ac.id
+// @contact.email mahasiswaulbiit@gmail.com
 
 // @BasePath /
 // @schemes http https

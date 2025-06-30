@@ -110,7 +110,7 @@ definitions:
     type: object
 info:
   contact:
-    email: indra@ulbi.ac.id
+    email: mahasiswaulbiit@gmail.com
     name: API Support
     url: https://github.com/indrariksa
   description: This is a sample swagger for Fiber

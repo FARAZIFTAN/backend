@@ -12,7 +12,7 @@ const docTemplate = `{
         "contact": {
             "name": "API Support",
             "url": "https://github.com/indrariksa",
-            "email": "indra@ulbi.ac.id"
+            "email": "mahasiswaulbiit@gmail.com"
         },
         "version": "{{.Version}}"
     },
